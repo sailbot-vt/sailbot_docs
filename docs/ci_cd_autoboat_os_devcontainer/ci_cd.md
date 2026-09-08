@@ -17,7 +17,7 @@ If you want to to learn more about CI/CD with Github, please see the below links
 - <https://docs.github.com/en/actions>
 - <https://docs.docker.com/build/ci/github-actions>
 
-## <p style="text-align: center;">What Does the CI/CD Pipeline Do When We Push Changes to the Main Branch?</p>
+## <p style="text-align: center;">What Does the CI/CD Pipeline Do When We Do Various Actions on Github?</p>
 
 | Feature | Pull Request (PR) | Push to `main` | Version Tag (`v*`) |
 | :--- | :---: | :---: | :---: |
